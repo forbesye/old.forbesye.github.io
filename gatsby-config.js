@@ -7,31 +7,27 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Hello Friend`,
-    description: `A simple starter for Gatsby. That's it.`,
+    title: `Jefferson Ye`,
+    description: `The personal site for Jefferson Forbes Ye`,
     copyrights: '',
-    author: `@panr`,
+    author: `@forbesye`,
     logo: {
       src: '',
-      alt: '',
+      alt: 'Jefferson Ye',
     },
-    logoText: 'hello friend',
+    logoText: 'Jefferson Ye',
     defaultTheme: 'dark',
     postsPerPage: 5,
-    showMenuItems: 2,
+    showMenuItems: 3,
     menuMoreText: 'Show more',
     mainMenu: [
       {
-        title: 'About',
-        path: '/about',
+        title: 'Resume',
+        path: '/resume',
       },
       {
-        title: 'Showcase',
-        path: '/showcase',
-      },
-      {
-        title: 'Example',
-        path: '/example',
+        title: 'The Impossible List',
+        path: '/impossible-list',
       },
     ],
   },

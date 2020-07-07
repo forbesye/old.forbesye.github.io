@@ -21,6 +21,7 @@
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "dependencies": {
+    "acorn": "^6.4.1",
     "gatsby": "^2.0.76",
     "gatsby-awesome-pagination": "^0.3.3",
     "gatsby-image": "^2.0.20",
@@ -36,9 +37,10 @@
     "gatsby-transformer-sharp": "^2.1.8",
     "prismjs": "^1.15.0",
     "prop-types": "^15.6.2",
-    "react": "^16.8.0",
+    "react": "^16.13.1",
     "react-dom": "^16.8.0",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "typescript": "^3.9.6"
   },
   "devDependencies": {
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.2.0",
@@ -46,7 +48,7 @@
     "babel-eslint": "^10.0.1",
     "babel-preset-gatsby": "^0.1.6",
     "cssnano": "^4.1.8",
-    "eslint": "^5.12.0",
+    "eslint": "^5.3.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^3.3.0",
     "eslint-plugin-import": "^2.14.0",

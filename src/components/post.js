@@ -31,7 +31,7 @@ const Post = ({
           {excerpt ? <Link to={path}>{title}</Link> : title}
         </h1>
         <div className={style.meta}>
-          {date} {author && <>— Written by {author}</>}
+          {date !== "Invalid date" && <i> Last updated on {date} </i>}
           {tags ? (
             <div className={style.tags}>
               {tags.map(tag => (
@@ -53,19 +53,19 @@ const Post = ({
         {excerpt ? (
           <>
             <p>{excerpt}</p>
-            <Link to={path} className={style.readMore}>
+            {/*<Link to={path} className={style.readMore}>
               Read more →
-            </Link>
+            </Link>*/}
           </>
         ) : (
           <>
             <div dangerouslySetInnerHTML={{ __html: html }} />
-            <Navigation
+            {/*<Navigation
               previousPath={previousPath}
               previousLabel={previousLabel}
               nextPath={nextPath}
               nextLabel={nextLabel}
-            />
+            />*/}
           </>
         )}
       </div>

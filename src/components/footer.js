@@ -12,10 +12,22 @@ const Footer = ({ copyrights }) => (
     ) : (
       <>
         <span className="footerCopyrights">
-          © 2019 Built with <a href="https://www.gatsbyjs.org">Gatsby</a>
+          © 2020 Jefferson Ye
         </span>
         <span className="footerCopyrights">
-          Starter created by <a href="https://radoslawkoziel.pl">panr</a>
+          <a href="https://www.linkedin.com/in/jefferson-ye/">LinkedIn</a>
+        </span>
+        <span className="footerCopyrights">
+          <a href="https://github.com/forbesye">GitHub</a>
+        </span>
+        <span className="footerCopyrights">
+          <a href="https://www.facebook.com/ForbesYe">Facebook</a>
+        </span>
+        <span className="footerCopyrights">
+          <a href="https://www.instagram.com/forbes.ye/">Instagram</a>
+        </span>
+        <span className="footerCopyrights">
+          Built with <a href="https://www.gatsbyjs.org">GatsbyJS</a> and <a href="https://reactjs.org/">ReactJS</a>
         </span>
       </>
     )}
