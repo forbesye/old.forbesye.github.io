@@ -21,13 +21,7 @@ const Footer = ({ copyrights }) => (
           <a href="https://github.com/forbesye">GitHub</a>
         </span>
         <span className="footerCopyrights">
-          <a href="https://www.facebook.com/ForbesYe">Facebook</a>
-        </span>
-        <span className="footerCopyrights">
-          <a href="https://www.instagram.com/forbes.ye/">Instagram</a>
-        </span>
-        <span className="footerCopyrights">
-          Built with <a href="https://www.gatsbyjs.org">GatsbyJS</a> and <a href="https://reactjs.org/">ReactJS</a>
+          Built with <a href="https://www.gatsbyjs.org">GatsbyJS</a>
         </span>
       </>
     )}
