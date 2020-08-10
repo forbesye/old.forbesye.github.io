@@ -5,6 +5,6 @@ author: "Jefferson Ye"
 path: "/resume"
 ---
 
-![Resume](../images/JeffersonYeJul2020.png "Resume")
+![Resume](../images/JeffersonYeAug2020.png "Resume")
 
-[Click here to download a PDF version](https://drive.google.com/uc?export=download&id=15BpMd6KUXzNtKHpebmisnXfVYBARO1Kz)
+[Click here to download a PDF version](https://drive.google.com/uc?export=download&id=1ojDROhJw8jJijW_VmKNNUEi_SwjRmB1f)
