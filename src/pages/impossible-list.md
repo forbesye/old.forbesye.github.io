@@ -1,6 +1,6 @@
 ---
 title: "The Impossible List"
-date: "2020-02-16"
+date: "2020-11-19"
 author: "Jefferson Ye"
 path: "/impossible-list"
 ---
@@ -40,7 +40,7 @@ I found out about the impossible list from Thomas Frank, who in turn got the ide
 * Read 100 books (starting from January 2018)
 * Write a book
 * Create a browser extension
-* Create a web application (almost there with BoardX!)
+* ~~Create a web application~~ ([Nov. 19 2020](https://texasvotes.me))
 * Create a mobile app
 * ~~Convert this website from WordPress to something more modern~~ (Feb. 11, 2020)
 
@@ -58,15 +58,9 @@ I found out about the impossible list from Thomas Frank, who in turn got the ide
 ## Travel Goals
 * Visit every continent
 * Visit all 50 states
-* Visit Prague
-* Visit Vienna
-* Visit Iceland
-* Visit Rome
-* Visit Amsterdam
-* Visit Switzerland
-* Visit Egypt
-* Visit Thailand
-* Visit Machu Picchu
+* Hike the Grand Teton Loop
+* Hike the Tour Du Mont Blanc Loop
+* Hike in Iceland
 
 ## Life Goals
 * Graduate from college

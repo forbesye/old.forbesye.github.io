@@ -1,10 +1,10 @@
 ---
 title: "Resume"
-date: "2020-08-10"
+date: "2020-11-19"
 author: "Jefferson Ye"
 path: "/resume"
 ---
 
-![Resume](../images/JeffersonYeAug2020.png "Resume")
+![Resume](../images/JeffersonYeNov2020.png "Resume")
 
-[Click here to download a PDF version](https://drive.google.com/uc?export=download&id=1ojDROhJw8jJijW_VmKNNUEi_SwjRmB1f)
+[Click here to view a PDF version](https://drive.google.com/file/d/1WRfgObaNciRGgibNGytFrzaAJOEI-XEC/view?usp=sharing)
