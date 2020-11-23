@@ -9,7 +9,7 @@ path: "/impossible_list"
 >
 >– Marcus Aurelius, Meditations
 
-I found out about the impossible list from Thomas Frank, who in turn got the idea from Joel Runyon. The impossible list is not a bucket list. It is a constantly updating flow of what I strive to accomplish. The impossible list never stays static, if something is accomplished, more tasks are added. It is virtually impossible that I will accomplish everything on this list, hence why it is called the impossible list, but it serves as a constant reminder of what my true life goals really are, and that I am capable of doing far more than I believe.
+I found out about the impossible list from [Thomas Frank](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/), who in turn got the idea from [Joel Runyon](https://impossiblehq.com/impossible-list/). The impossible list is not a bucket list. It is a constantly updating flow of what I strive to accomplish. The impossible list never stays static, if something is accomplished, more tasks are added. It is virtually impossible that I will accomplish everything on this list, hence why it is called the impossible list, but it serves as a constant reminder of what my true life goals really are, and that I am capable of doing far more than I believe.
 
 ##Fitness/Health Goals
 * ~~Run a 5k~~ (Jul. 10, 2016)
