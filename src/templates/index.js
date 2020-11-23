@@ -4,9 +4,8 @@ import { graphql } from 'gatsby'
 import SEO from '../components/seo'
 import Layout from '../components/layout'
 import Post from '../components/post'
-import Navigation from '../components/navigation'
 
-const Index = ({ data, pageContext: { nextPagePath, previousPagePath } }) => {
+const Index = ({ data, }) => {
   const {
     allMarkdownRemark: { edges: posts },
   } = data
@@ -43,13 +42,6 @@ const Index = ({ data, pageContext: { nextPagePath, previousPagePath } }) => {
             />
           )
         })}
-
-        <Navigation
-          previousPath={previousPagePath}
-          previousLabel="Newer posts"
-          nextPath={nextPagePath}
-          nextLabel="Older posts"
-        />
       </Layout>
     </>
   )
