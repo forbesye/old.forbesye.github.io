@@ -61,6 +61,7 @@ I found out about the impossible list from [Thomas Frank](https://collegeinfogee
 * Hike the Grand Teton Loop
 * Hike the Tour Du Mont Blanc Loop
 * Hike in Iceland
+* Hike either the Pacific Crest or Appalachian trail (or both!)
 
 ## Life Goals
 * Graduate from college
