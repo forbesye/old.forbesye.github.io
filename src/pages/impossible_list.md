@@ -1,6 +1,6 @@
 ---
 title: "The Impossible List"
-date: "2020-11-19"
+date: "2020-11-22"
 author: "Jefferson Ye"
 path: "/impossible_list"
 ---
