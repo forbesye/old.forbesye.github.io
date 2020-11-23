@@ -2,7 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
-import Navigation from './navigation'
 import { toKebabCase } from '../helpers'
 
 import style from '../styles/post.module.css'
@@ -12,17 +11,10 @@ const Post = ({
   date,
   path,
   coverImage,
-  author,
   excerpt,
   tags,
-  html,
-  previousPost,
-  nextPost,
+  html
 }) => {
-  const previousPath = previousPost && previousPost.frontmatter.path
-  const previousLabel = previousPost && previousPost.frontmatter.title
-  const nextPath = nextPost && nextPost.frontmatter.path
-  const nextLabel = nextPost && nextPost.frontmatter.title
 
   return (
     <div className={style.post}>
@@ -31,7 +23,7 @@ const Post = ({
           {excerpt ? <Link to={path}>{title}</Link> : title}
         </h1>
         <div className={style.meta}>
-          {date !== "Invalid date" && <i> Last updated on {date} </i>}
+          {`Last updated ${date}`}
           {tags ? (
             <div className={style.tags}>
               {tags.map(tag => (
@@ -53,19 +45,13 @@ const Post = ({
         {excerpt ? (
           <>
             <p>{excerpt}</p>
-            {/*<Link to={path} className={style.readMore}>
+            <Link to={path} className={style.readMore}>
               Read more →
-            </Link>*/}
+            </Link>
           </>
         ) : (
           <>
             <div dangerouslySetInnerHTML={{ __html: html }} />
-            {/*<Navigation
-              previousPath={previousPath}
-              previousLabel={previousLabel}
-              nextPath={nextPath}
-              nextLabel={nextLabel}
-            />*/}
           </>
         )}
       </div>
