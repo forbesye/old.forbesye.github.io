@@ -70,7 +70,7 @@
   z-index: 99;
 
   :global .dark-theme :local & {
-    background: #252627;
+    background: #121212;
   }
 
   li {
@@ -169,7 +169,7 @@
 
 .menuArrow {
   display: inline-block;
-  font-family: "Fira Code", "Inter UI";
+  font-family: "Karla";
   margin-left: 5px;
   transform: rotate(90deg);
 }

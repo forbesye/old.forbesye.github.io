@@ -1,9 +1,11 @@
 ---
 title: "Hi, I'm Jefferson Ye 🤘"
 path: "/"
-date: "2020-11-22"
+date: "2021-05-23"
 author: "Jefferson Ye"
 ---
-![Jefferson Ye](../images/JeffersonYeAustin.jpg)
+![Jefferson Ye](../images/JeffersonYeChicago.jpeg)
 
-I’m a computer science and math major at the University of Texas at Austin. My interests include technology, health, and trying to discover what it means to live a good life.
+ I'm currently an undergraduate student at the University of Texas at Austin studying Computer Science. I'm particularly interested in full-stack web and app development, distributed systems, and the effects of technology on culture and society.
+
+ In my free time, I enjoy running, lifting, cooking, and listening to audiobooks and podcasts!

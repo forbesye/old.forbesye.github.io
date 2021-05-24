@@ -15,7 +15,6 @@ const Post = ({
   tags,
   html
 }) => {
-
   return (
     <div className={style.post}>
       <div className={style.postContent}>
@@ -23,7 +22,7 @@ const Post = ({
           {excerpt ? <Link to={path}>{title}</Link> : title}
         </h1>
         <div className={style.meta}>
-          {`Last updated ${date}`}
+          {`Last updated on ${date}`}
           {tags ? (
             <div className={style.tags}>
               {tags.map(tag => (

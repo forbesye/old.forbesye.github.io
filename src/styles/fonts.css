@@ -1,40 +1,40 @@
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css);
 
 @font-face {
-  font-family: "Inter UI";
+  font-family: "Karla";
   font-style: normal;
   font-weight: 400;
-  src: url("../../static/fonts/Inter-UI-Regular.woff") format("woff");
+  src: url("../../static/fonts/Karla-Regular.ttf") format("ttf");
 }
 @font-face {
-  font-family: "Inter UI";
+  font-family: "Karla";
   font-style: italic;
   font-weight: 400;
-  src: url("../../static/fonts/Inter-UI-Italic.woff") format("woff");
+  src: url("../../static/fonts/Karla-Italic.ttf") format("ttf");
 }
 
 @font-face {
-  font-family: "Inter UI";
+  font-family: "Karla";
   font-style: normal;
   font-weight: 600;
-  src: url("../../static/fonts/Inter-UI-Medium.woff") format("woff");
+  src: url("../../static/fonts/Karla-Medium.ttf") format("ttf");
 }
 @font-face {
-  font-family: "Inter UI";
+  font-family: "Karla";
   font-style: italic;
   font-weight: 600;
-  src: url("../../static/fonts/Inter-UI-MediumItalic.woff") format("woff");
+  src: url("../../static/fonts/Karla-MediumItalic.ttf") format("ttf");
 }
 
 @font-face {
-  font-family: "Inter UI";
+  font-family: "Karla";
   font-style: normal;
   font-weight: 800;
-  src: url("../../static/fonts/Inter-UI-Bold.woff") format("woff");
+  src: url("../../static/fonts/Karla-Bold.ttf") format("ttf");
 }
 @font-face {
-  font-family: "Inter UI";
+  font-family: "Karla";
   font-style: italic;
   font-weight: 800;
-  src: url("../../static/fonts/Inter-UI-BoldItalic.woff") format("woff");
+  src: url("../../static/fonts/Karla-BoldItalic.ttf") format("ttf");
 }

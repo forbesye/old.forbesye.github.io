@@ -13,8 +13,7 @@ I found out about the impossible list from [Thomas Frank](https://collegeinfogee
 
 ##Current Focuses
 
-- I plan on graduating college a semester early in December 2021
-- I plan on finishing the Austin Marathon in February 2022 with a friend, hopefully in under 4 hours
+- I plan on graduating college in December 2021
 - I plan on thru-hiking the Appalachian trail starting in March/April 2022 (I'll also shave my head right before this!)
 
 ##Fitness/Health Goals
