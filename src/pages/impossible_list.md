@@ -1,6 +1,6 @@
 ---
 title: "The Impossible List"
-date: "2020-11-22"
+date: "2021-08-28"
 author: "Jefferson Ye"
 path: "/impossible_list"
 ---
@@ -9,12 +9,12 @@ path: "/impossible_list"
 >
 > – Marcus Aurelius, Meditations
 
-I found out about the impossible list from [Thomas Frank](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/), who in turn got the idea from [Joel Runyon](https://impossiblehq.com/impossible-list/). The impossible list is not a bucket list. It is a constantly updating flow of what I strive to accomplish. The impossible list never stays static, if something is accomplished, more tasks are added. It is virtually impossible that I will accomplish everything on this list, hence why it is called the impossible list, but it serves as a constant reminder of what my true life goals really are, and that I am capable of doing far more than I believe.
+I found out about the impossible list from [Thomas Frank](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/). The impossible list is not a bucket list. It is a constantly updating flow of what I strive to accomplish. The impossible list never stays static, if something is accomplished, more tasks are added. It is virtually impossible that I will accomplish everything on this list, hence why it is called the impossible list, but it serves as a constant reminder of what my true life goals really are, and that I am capable of doing far more than I believe.
 
 ##Current Focuses
 
 - I plan on graduating college in December 2021
-- I plan on thru-hiking the Appalachian trail starting in March/April 2022 (I'll also shave my head right before this!)
+- I plan on thru-hiking the Appalachian Trail starting in March/April 2022
 
 ##Fitness/Health Goals
 
@@ -66,10 +66,10 @@ I found out about the impossible list from [Thomas Frank](https://collegeinfogee
 
 - Visit all 50 states
 - Visit all national parks in America
-- Hike the Grand Teton Loop
+- ~~Hike in Grand Teton~~ (Aug. 20, 2021)
 - Hike the Tour Du Mont Blanc Loop
 - Hike in Iceland
-- Hike the Appalachian Trail and/or the Pacific Crest Trail
+- Hike the Appalachian Trail
 
 ## Life Goals
 

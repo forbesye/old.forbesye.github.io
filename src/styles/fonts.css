@@ -1,6 +1,6 @@
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css);
 
-@font-face {
+/* @font-face {
   font-family: "Karla";
   font-style: normal;
   font-weight: 400;
@@ -37,4 +37,4 @@
   font-style: italic;
   font-weight: 800;
   src: url("../../static/fonts/Karla-BoldItalic.ttf") format("ttf");
-}
+} */
