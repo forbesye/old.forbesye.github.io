@@ -1,6 +1,6 @@
 ---
 title: "The Impossible List"
-date: "2021-08-28"
+date: "2021-10-13"
 author: "Jefferson Ye"
 path: "/impossible_list"
 ---
@@ -14,7 +14,7 @@ I found out about the impossible list from [Thomas Frank](https://collegeinfogee
 ##Current Focuses
 
 - I plan on graduating college in December 2021
-- I plan on thru-hiking the Appalachian Trail starting in March/April 2022
+- I plan on thru-hiking the Appalachian Trail starting in March 2022
 
 ##Fitness/Health Goals
 
@@ -69,7 +69,10 @@ I found out about the impossible list from [Thomas Frank](https://collegeinfogee
 - ~~Hike in Grand Teton~~ (Aug. 20, 2021)
 - Hike the Tour Du Mont Blanc Loop
 - Hike in Iceland
-- Hike the Appalachian Trail
+- Hike the Camino de Santiago
+- Thru-hike the Appalachian Trail
+- Thru-hike Pacific Crest Trail
+- Thru-hike Continental Divide Trail
 
 ## Life Goals
 
