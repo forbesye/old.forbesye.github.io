@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
+import Navigation from './navigation'
 import { toKebabCase } from '../helpers'
 
 import style from '../styles/post.module.css'
@@ -11,10 +12,21 @@ const Post = ({
   date,
   path,
   coverImage,
+  author,
   excerpt,
   tags,
-  html
+  html,
+  previousPost,
+  nextPost,
 }) => {
+  const previousPath = previousPost && previousPost.frontmatter.path
+  const previousLabel = previousPost && previousPost.frontmatter.title
+  const nextPath = nextPost && nextPost.frontmatter.path
+  const nextLabel = nextPost && nextPost.frontmatter.title
+
+  const blogRegex = new RegExp('/blog/.*')
+  const isBlog = blogRegex.test(path)
+
   return (
     <div className={style.post}>
       <div className={style.postContent}>
@@ -48,11 +60,22 @@ const Post = ({
               Read more →
             </Link>
           </>
-        ) : (
+        ) : null}
+
+        {!excerpt ? (
+          <div dangerouslySetInnerHTML={{ __html: html }} />
+        ) : null}
+        
+        {(!excerpt && isBlog) ? (
           <>
-            <div dangerouslySetInnerHTML={{ __html: html }} />
+            <Navigation
+              previousPath={previousPath}
+              previousLabel={previousLabel}
+              nextPath={nextPath}
+              nextLabel={nextLabel}
+            />
           </>
-        )}
+        ) : null}
       </div>
     </div>
   )
