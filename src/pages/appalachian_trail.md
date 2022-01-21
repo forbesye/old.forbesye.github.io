@@ -20,7 +20,7 @@ I also set up a nifty map with markers of where I write each blog post, which yo
 
 **(Not finished implementing yet!)**
 
-## Frequently Asked Questions
+# Frequently Asked Questions
 
 **Why tho?**
 
