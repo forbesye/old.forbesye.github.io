@@ -21,10 +21,14 @@ module.exports = {
     showMenuItems: 5,
     menuMoreText: 'More',
     mainMenu: [
-      // {
-      //   title: 'Blog',
-      //   path: '/blog',
-      // },
+      {
+        title: 'Blog',
+        path: '/blog',
+      },
+      {
+        title: 'Appalachian Trail',
+        path: '/appalachian_trail',
+      },
       {
         title: 'Resume',
         path: '/resume',

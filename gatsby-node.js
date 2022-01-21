@@ -131,6 +131,8 @@ exports.sourceNodes = ({ actions }) => {
       title: String!
       author: String
       date: Date! @dateformat
+      latitude: Float!
+      longitude: Float!
       path: String!
       tags: [String!]
       excerpt: String

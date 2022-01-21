@@ -12,7 +12,7 @@ const Footer = ({ copyrights }) => (
     ) : (
       <>
         <span className="footerCopyrights">
-          © 2021 Jefferson Ye
+          © 2022 Jefferson Ye
         </span>
         <span className="footerCopyrights">
           <a href="https://www.linkedin.com/in/jefferson-ye/">LinkedIn</a>

@@ -1,6 +1,6 @@
 ---
 title: "The Impossible List"
-date: "2021-10-13"
+date: "2022-01-21"
 author: "Jefferson Ye"
 path: "/impossible_list"
 ---
@@ -13,7 +13,6 @@ I found out about the impossible list from [Thomas Frank](https://collegeinfogee
 
 ##Current Focuses
 
-- I plan on graduating college in December 2021
 - I plan on thru-hiking the Appalachian Trail starting in March 2022
 
 ##Fitness/Health Goals
@@ -24,12 +23,11 @@ I found out about the impossible list from [Thomas Frank](https://collegeinfogee
 - ~~Run a marathon~~ ([Feb. 16, 2020](https://www.strava.com/activities/3106065746/overview))
 - Run a marathon in under 4 hours
 - Run an ultramarathon
-- Complete a sprint distance triathlon
 - Complete an Olympic triathlon
 - Complete a half Ironman triathlon
 - Complete an Ironman triathlon
 - Run a sub-6 minute mile
-- Join the 1000 pound club (combined bench, squat, deadlift over 1000 lbs)
+- Join the 1,000 pound club (combined bench, squat, deadlift over 1,000 lbs)
 - Squat 405 lbs for 1 rep
 - Deadlift 495 lbs for 1 rep
 - Bench 275 lbs for 1 rep
@@ -41,12 +39,11 @@ I found out about the impossible list from [Thomas Frank](https://collegeinfogee
 ## Skill Goals
 
 - Become fluent in Chinese
-- Become fluent in Spanish
 - Attend a 10 day meditation retreat
 - Read 100 books (starting from January 2018)
 - Write a book
 - Create a browser extension
-- ~~Create a web application~~ ([Nov. 19 2020](https://texasvotes.me))
+- ~~Create a web application~~ ([Nov. 19, 2020](https://texasvotes.me))
 - Create a mobile app
 - ~~Convert this website from WordPress~~ (Feb. 11, 2020)
 
@@ -66,16 +63,14 @@ I found out about the impossible list from [Thomas Frank](https://collegeinfogee
 
 - Visit all 50 states
 - Visit all national parks in America
-- ~~Hike in Grand Teton~~ (Aug. 20, 2021)
-- Hike the Tour Du Mont Blanc Loop
-- Hike in Iceland
-- Hike the Camino de Santiago
+- ~~Backpack in Grand Teton~~ (Aug. 20, 2021)
+- Backpack the Tour Du Mont Blanc Loop
+- Backpack in Iceland
 - Thru-hike the Appalachian Trail
 - Thru-hike Pacific Crest Trail
-- Thru-hike Continental Divide Trail
 
 ## Life Goals
 
-- Graduate from college
+- ~~Graduate from college~~ (Dec. 18, 2021)
 - Be self sufficient and location independent
 - Get married??? Have a kid???

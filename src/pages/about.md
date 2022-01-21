@@ -1,13 +1,16 @@
 ---
 title: "Hi, I'm Jefferson Ye 🤘"
 path: "/"
-date: "2021-08-28"
+date: "2022-01-21"
 author: "Jefferson Ye"
 ---
-![Jefferson Ye](../images/JeffersonYeSF.jpg)
 
- I'm currently an undergraduate student at the University of Texas at Austin studying Computer Science, graduating in December 2021. I'm particularly interested in full-stack web and app development, distributed systems, and the effects of technology on culture and society.
+![Jefferson Ye](../images/about/BigBend2022.jpg)
 
- In my free time, I enjoy running, lifting, cooking, and listening to audiobooks and podcasts!
+Hi! My name is Jeff and I recently graduated from the [University of Texas at Austin](https://www.cs.utexas.edu/) in December 2021 with a BS in Computer Science.
 
- I am planning on thru-hiking the Appalachian Trail starting in March 2022 and hopefully finishing around September/October. I'm currently seeking any full-time software engineering positions starting in Fall 2022!
+In March 2022, I will start [thru-hiking the Appalachian Trail](/appalachian_trail) until Fall 2022. Afterwards, I'll be starting as a Software Development Engineer at Amazon in Denver.
+
+I am particularly interested in full-stack web and app development, distributed systems, and the effects of technology on culture and society.
+
+In my free time, I enjoy [running](https://www.strava.com/athletes/46494495), lifting, cooking, and listening to audiobooks and podcasts!
